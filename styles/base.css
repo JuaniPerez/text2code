@@ -1,0 +1,27 @@
+:root {
+  --color-01: #EEEEEE;
+  --color-02: #DDDDDD;
+  --color-03: #2A4759;
+  --color-04: #F79B72;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--color-03);
+  color: var(--color-01);
+  padding: 2rem;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.title_home {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}

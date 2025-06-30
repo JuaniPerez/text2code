@@ -1,0 +1,38 @@
+.panel-lateral {
+  position: fixed;
+  top: 100px;
+  right: 30px;
+  width: 350px;
+  height: 350px;
+  background-color: var(--color-03);
+  color: var(--color-01);
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  font-family: 'Courier New', Courier, monospace;
+  overflow: auto;
+  z-index: 10;
+}
+
+.panel-lateral h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid var(--color-02);
+  padding-bottom: 5px;
+}
+
+.panel-lateral .contenido {
+  white-space: pre-wrap;
+  font-size: 14px;
+  line-height: 1.3;
+  max-height: 120px;
+  overflow-y: auto;
+  padding: 5px;
+  border: 1px solid var(--color-02);
+  border-radius: 4px;
+  background-color: #000;
+  color: #00ff00;
+}

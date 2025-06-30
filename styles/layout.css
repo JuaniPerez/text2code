@@ -1,0 +1,13 @@
+.main-home {
+  display: flex;
+  justify-content: flex-start;
+  height: 100vh;
+}
+
+.contenedor-principal {
+   flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 2rem;
+}
