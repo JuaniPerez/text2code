@@ -10,6 +10,13 @@ Por eso, seguiré trabajando en esta página, actualizándola y refinándola en 
 
 ¡Gracias por acompañarme en este viaje!
 
+## 🌐 Proyecto en línea
+
+Podés ver este proyecto funcionando en vivo gracias a GitHub Pages:
+
+👉 [Ver página online](https://juaniperez.github.io/text2code/)
+
+
 ---
 
 *Juani Perez*  
