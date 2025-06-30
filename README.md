@@ -1,4 +1,4 @@
-# Proyecto: Mi Página Web - Seguimiento y Desarrollo
+# Proyecto: text2code- Seguimiento y Desarrollo
 
 Este proyecto representa el primer gran paso en mi camino como desarrollador web. Aquí he volcado todo lo aprendido hasta ahora, combinando HTML, CSS y JavaScript para construir una página funcional y personal.
 
